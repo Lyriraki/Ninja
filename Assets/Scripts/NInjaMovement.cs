@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class NInjaMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
+    Start is called before the first frame update
     public Vector2 jump = new Vector2(0, 300);
     Vector3 startPoint;
     int varjump, score, scrollLengkap;
