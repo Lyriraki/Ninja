@@ -1,3 +1,0 @@
-suplier
-1.Bl		:-azuradistro
-3.shiopee	:
